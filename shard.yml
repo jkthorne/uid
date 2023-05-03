@@ -1,0 +1,9 @@
+name: uid
+version: 0.1.0
+
+authors:
+  - Jack Thorne <jack@myrenee.io>
+
+crystal: 1.8.1
+
+license: MIT
